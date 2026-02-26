@@ -28,7 +28,7 @@ This project solves the problem by automating:
 ---
 
 ## 🗂️ Dataset Details
-- Training Images: 31
+- Training Images: 25
 - Validation Images: 6
 - Background: Plain
 - Classes:
