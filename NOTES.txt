@@ -1,0 +1,25 @@
+Case Study: 
+Screw Classification, Detection & Counting
+
+Goal: 
+The goal is to develop a system that can reliably classify, detect, and quantify the screws from any given image for streamlined automated inspection.
+
+Data:
+You are provided with images containing three different types of screws.
+
+The three screw types are visually distinct — for example:
+Type A
+Type B 
+Type C
+
+(You may name the classes based on your own observations.)
+
+Objective:
+From each image from validation data (val folder), the program must:
+
+- Identify the type of each screw
+- Detect every screw present in the image
+- Count the number of screws per type and the overall total
+
+Output:
+The final output should clearly state how many screws of each category are present in the validation data (val folder).

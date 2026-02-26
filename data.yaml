@@ -1,0 +1,8 @@
+train: data/images
+val: data/images
+
+nc: 3
+names:
+  0: Screw_A
+  1: Screw_B
+  2: Screw_C
